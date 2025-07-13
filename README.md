@@ -34,4 +34,8 @@ This project follows the **Git Flow** branching model to ensure organized develo
 ---
 
 ### 📌 Example Branch List
-
+master
+develop
+feature/login
+release/v1.0
+hotfix/urgent-issue
